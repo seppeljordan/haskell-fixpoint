@@ -1,4 +1,7 @@
 module Fixpoint (fixpoint, root, derive)
+-- This module implements a simple fixpoint procedure for (Float ->
+-- Float)-Procedures.  The standard accuracy is 0.0001 for fixpoint,
+-- root and derive procedures
 where
 
 
