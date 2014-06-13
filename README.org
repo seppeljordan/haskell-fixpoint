@@ -1,0 +1,6 @@
+#+title: Fixpoint procedure in Haskell
+
+This really small library implements a fixpoint procedure for (Float
+-> Float) procedures in Haskell.  You should make a qualified import
+if you intend to use this in bigger projects because the procedure
+names are kind of generic.
